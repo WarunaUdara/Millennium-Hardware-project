@@ -29,3 +29,5 @@ c
 3src/main/java/edu/icet/org/service/ItemService.java,9\4\949174b7cc3542c6606bb44875d3c6d4b5a5801c
 l
 <src/main/java/edu/icet/org/service/impl/ItemServiceImpl.java,7\f\7f85056ca50167a3fb78bbbc5426a9dcd12bc955
+l
+<src/main/java/edu/icet/org/repository/ItemJpaRepository.java,3\0\30e7af87c0a9f1d62ea1d9ba2b8ec5bbd02b3a11
